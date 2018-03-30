@@ -1,0 +1,9 @@
+Toy Test File:
+There is an apple tree here. There isn't any apple on it. APPLE. "apple" 
+There is another apple tree. It has some apples on it. Yay!
+
+Output File:
+(isn 1) (apple 5) (has 1) (tree 2) (on 2) (there 3) (apples 1) (is 2) (it 3) (any 1) (an 1) (here 1) (yay 1) (t 1) (some 1) (another 1) 
+
+Console Output:
+OK; Total words: 26, Hash table size: 64, Average length of collision lists: 0.25
